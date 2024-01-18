@@ -2,6 +2,8 @@
   {"type":"Myanmar(မြန်မာ)",
 "m3uLink":"https://raw.githubusercontent.com/fotlivemm123/m3u/main/mm.m3u"},
   {"type":"Sports",
-    "m3uLink":"https://raw.githubusercontent.com/fotlivemm123/m3u/main/sports.m3u"}
+    "m3uLink":"https://raw.githubusercontent.com/fotlivemm123/m3u/main/sports.m3u"},
+  {"type":"Kids",
+    "m3uLink":"https://raw.githubusercontent.com/fotlivemm123/m3u/main/kids.m3u"}
 
 ]
