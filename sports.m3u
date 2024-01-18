@@ -19,3 +19,13 @@ https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fotlivemm123/m3u/main/s-l300.gif" group-title="Sports", Live Match (head) 10
 https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://static1.squarespace.com/static/5f9968031afbe354a0c0a63d/t/5fc7bf865fecd2174b6b88a8/1650998715341/", Live Match (btw) 1
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://static1.squarespace.com/static/5f9968031afbe354a0c0a63d/t/5fc7bf865fecd2174b6b88a8/1650998715341/", Live Match (btw) 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://static1.squarespace.com/static/5f9968031afbe354a0c0a63d/t/5fc7bf865fecd2174b6b88a8/1650998715341/", Live Match (btw) 3
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://static1.squarespace.com/static/5f9968031afbe354a0c0a63d/t/5fc7bf865fecd2174b6b88a8/1650998715341/", Live Match (btw) 4
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://static1.squarespace.com/static/5f9968031afbe354a0c0a63d/t/5fc7bf865fecd2174b6b88a8/1650998715341/", Live Match (btw) 5
+https://hls.streambtw.com/live/stream_5.m3u8
